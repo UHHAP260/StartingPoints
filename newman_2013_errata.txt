@@ -1,0 +1,9 @@
+Mark Newman Computational Physics (2013) Errata
+================================================
+
+p.55    list may be array
+        Missing “from bumpy import array” from code example on bottom f page
+p.216   matrix at bottom (eq 6.6) might have typos
+p.292   (typo fixed in recent printings) "maybe"
+p.480   (typo fixed in more recent printings) missing “to"
+p.484   typo in eq 10.65 subscript
