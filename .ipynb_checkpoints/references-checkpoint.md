@@ -120,3 +120,8 @@ xkcd
 - [code quality 2](https://xkcd.com/1695/)
 - [code quality 3](https://xkcd.com/1833/)
 
+Helpful People
+---------------
+clockhart@hawaii.edu
+http://irtfweb.ifa.hawaii.edu/~lockhart/src/charles.py
+
