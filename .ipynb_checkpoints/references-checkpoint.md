@@ -67,17 +67,14 @@ Markdown
 - [Markdown Service Tools for MacOS](http://brettterpstra.com/projects/markdown-service-tools/)
 - command for converting to html on the command line: "% perl Markdown.pl --html4tags foo.text"
 
-Git
----
+Git and GitHub
+---------------
 
 - [Git](https://git-scm.com)
 - [How to install git if it isn't already](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
-
-GitHub
-------
-
-- [Git Hub Hello World Tutorial Guide](https://guides.github.com/activities/hello-world/)
+- [Git Hub Guide](https://guides.github.com)
+- [GitHub Help](https://help.github.com)
+- [For completeness, know that BitBucket is an alternative to GitHub](https://bitbucket.org)
 
 Text Editors
 ------------
